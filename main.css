@@ -1,3 +1,7 @@
+.index1,
+.index2 {
+  background-image: url("C5nazjbWUAAcizG.jpg");
+}
 body {
   font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 1.2em;
@@ -25,4 +29,9 @@ h3 {
 @media only screen and (min-width: 900px) {
 .text {
   max-width: 50vw;
+}
+section {
+  height: 75vw;
+  color: #ffffff;
+  text-align: center;
 }
