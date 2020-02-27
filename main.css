@@ -52,8 +52,12 @@ html * {
     margin: 0;
     padding: 0;
     flex-wrap: wrap;
-    background-color: rgb(199,180,90);
+    background-color: rgb(118,152,88);
+    box-shadow: 10px 10px 33px -8px rgba(0,0,0,0.74);
 }
 body {
     margin: 0;
+}
+.images {
+  max-width: 100%
 }
