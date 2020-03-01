@@ -60,6 +60,17 @@ html * {
 body {
     margin: 0;
 }
+@media only screen and (min-width: 600px) {
+.images {
+  max-width: 75vw;
+  float: left;
+}
+@media only screen and (min-width: 900px) {
+.images {
+  max-width: 50vw;
+  float: left;
+}
 .images {
   max-width: 100%;
+  height: auto;
 }
